@@ -27,10 +27,3 @@ project-folder/
 
 This project is created as part of learning front-end web development. It demonstrates the use of semantic HTML and basic CSS styling in building a meaningful static webpage.
 
-## 🔗 Live Preview
-
-*Coming Soon* or *[Add GitHub Pages link if deployed]*
-
----
-
-Feel free to clone, modify, or improve this project. All content used is for educational purposes only.
